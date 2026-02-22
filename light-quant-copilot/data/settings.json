@@ -1,0 +1,14 @@
+{
+  "max_tokens": 2048,
+  "provider": "deepseek",
+  "qwen_model": "qwen-plus",
+  "max_retries": 2,
+  "qwen_api_key": "",
+  "gateway_base_url": "https://api.whatai.cc/",
+  "deepseek_base_url": "https://api.deepseek.com",
+  "deepseek_api_key": "sk-en0RDobVlKxWx1K7kShUpizjpuA9a3MvyRVMNr2X47bg0QlS",
+  "timeout": 60,
+  "qwen_base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "deepseek_model": "deepseek-v3.1",
+  "temperature": 0.3
+}

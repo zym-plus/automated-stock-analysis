@@ -1,0 +1,3 @@
+
+[notice] A new release of pip is available: 25.2 -> 26.0.1
+[notice] To update, run: /mnt/e/Project/Automated Stock Analysis/light-quant-copilot/.venv/bin/python3 -m pip install --upgrade pip
